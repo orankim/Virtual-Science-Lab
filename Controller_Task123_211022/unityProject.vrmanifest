@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.자석시뮬basic_210802.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\HCIL\\Desktop\\kyulee\\Self MagnetSimul\\Controller_Task123_211022\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "자석시뮬Basic_210802 [Testing]"
+        }
+      }
+    }
+  ]
+}
