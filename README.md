@@ -15,10 +15,13 @@ Exploring Input Devices for Supporting Virtual Magnet Experiments for Third Grad
 
 ### Three Tasks
 * Task 1
- * Move the magnet that is placed between the objects and identify which object is magnetic.
+ * Goal : to move the magnet that is placed between the objects and identify which object is magnetic.
  * The presented objects differed between the devices.
 * Task 2
- * Understand the relationship between an object's mass and the magnetic force.
+ * Goal : to understand the relationship between an object's mass and the magnetic force.
+ * Move the magnet slowly to the left.
  * Repeat twice with a ball each, which differed in its mass.
 * Task 3
+ * Goal : to understand the relationship between the number of magnets and the total magnetic force.
+ * Wait for 5 seconds then connect both magnets and observe the ball's movement to identify which case has the higher magnetic force.
 
